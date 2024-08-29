@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Nationals_Project_1_1126/1.0.0": {
+        "runtime": {
+          "Nationals_Project_1_1126.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nationals_Project_1_1126/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

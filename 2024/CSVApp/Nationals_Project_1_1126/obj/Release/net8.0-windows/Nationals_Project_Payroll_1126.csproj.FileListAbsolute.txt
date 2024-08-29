@@ -1,0 +1,16 @@
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\bin\Release\net8.0-windows\Nationals_Project_Payroll_1126.exe
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\bin\Release\net8.0-windows\Nationals_Project_Payroll_1126.deps.json
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\bin\Release\net8.0-windows\Nationals_Project_Payroll_1126.runtimeconfig.json
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\bin\Release\net8.0-windows\Nationals_Project_Payroll_1126.dll
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\bin\Release\net8.0-windows\Nationals_Project_Payroll_1126.pdb
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_1_1126.Skills_USA_Payroll.resources
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.AssemblyInfo.cs
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.dll
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\refint\Nationals_Project_Payroll_1126.dll
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.pdb
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\Nationals_Project_Payroll_1126.genruntimeconfig.cache
+C:\Users\antho\source\repos\Nationals_Project_1_1126\Nationals_Project_1_1126\obj\Release\net8.0-windows\ref\Nationals_Project_Payroll_1126.dll
