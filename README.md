@@ -7,6 +7,7 @@ This is an app I created for the Nebraska State Competition - Future Value App
 
 # 2024
 There are 3 Apps in this section.
+
 App 1: Nebraska State Competition App (Placed First) - Personal Spending App
 
 App 2: National Competition App 1 - CSV File reading/displaying (Modified from Competition submission to fix bugs)
