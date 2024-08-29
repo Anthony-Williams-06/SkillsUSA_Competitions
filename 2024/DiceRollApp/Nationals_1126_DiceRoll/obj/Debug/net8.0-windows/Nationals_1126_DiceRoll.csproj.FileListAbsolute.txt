@@ -1,0 +1,16 @@
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\bin\Debug\net8.0-windows\Nationals_1126_DiceRoll.exe
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\bin\Debug\net8.0-windows\Nationals_1126_DiceRoll.deps.json
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\bin\Debug\net8.0-windows\Nationals_1126_DiceRoll.runtimeconfig.json
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\bin\Debug\net8.0-windows\Nationals_1126_DiceRoll.dll
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\bin\Debug\net8.0-windows\Nationals_1126_DiceRoll.pdb
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.frmDiceRoll.resources
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.csproj.GenerateResource.cache
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.AssemblyInfoInputs.cache
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.AssemblyInfo.cs
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.dll
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\refint\Nationals_1126_DiceRoll.dll
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.pdb
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\Nationals_1126_DiceRoll.genruntimeconfig.cache
+C:\Users\antho\source\repos\Nationals_1126_DiceRoll\Nationals_1126_DiceRoll\obj\Debug\net8.0-windows\ref\Nationals_1126_DiceRoll.dll
